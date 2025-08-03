@@ -3,6 +3,8 @@
 Welcome to my React Native learning journey! 🚀
 This repository contains mini and full-fledged mobile app projects built using **React Native** as I explore and experiment with new features, concepts, and UI/UX patterns.
 
+<img width="2048" height="2048" alt="Gemini_Generated_Image_vboz9yvboz9yvboz" src="https://github.com/user-attachments/assets/a949b271-ae2d-4256-b37e-95da412d4c64" />
+
 ---
 
 ## 🔥 What's Inside?
@@ -65,8 +67,7 @@ React-Native-Projects/
 
 ## 🖼️ Preview
 
-*Add screenshots or screen recordings here*
-(You can also embed a link to your video or YouTube demo)
+[FirstApp.webm](https://github.com/user-attachments/assets/96daa9bf-dddd-4fa9-a573-6a39b24d823a)
 
 ---
 
@@ -104,12 +105,15 @@ React-Native-Projects/
 Feel free to fork, clone, explore, or suggest improvements.
 I’m learning in public — feedback and contributions are always welcome!
 
-📫 **Say Hi** on [LinkedIn](https://linkedin.com/in/saiyamtuteja)
+📫 **Say Hi** on [LinkedIn](https://www.linkedin.com/in/saiyam-tuteja/)
 
 ---
 
 ## ⭐️ Star This Repo
 
 If you like the project or find it helpful, please give it a ⭐️ — it helps others discover it!
+
+
+<img width="2048" height="2048" alt="Gemini_Generated_Image_fywbgvfywbgvfywb" src="https://github.com/user-attachments/assets/07e5aeaa-8d88-450c-ab44-dde0429f1a4c" />
 
 ---
